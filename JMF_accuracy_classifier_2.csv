@@ -1,0 +1,12 @@
+Overall Accuracy,0.9655,,,
+,,,,
+Confusion Matrix,,,,
+,Predict Urban,Predict Bare,Predict Vegetation,Predict Water
+True Urban,23,0,0,0
+True Bare,4,25,0,0
+True Vegetation,0,0,28,0
+True Water,0,0,0,36
+,,,,
+,Urban,Bare,Vegetation,Water
+Precision,0.852,1,1,1
+Recall,1,0.862,1,1
